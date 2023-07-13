@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Учёба\\Знакомство с языками\\05.07 Семинар С++\\practic\\task0\\task0.csproj": {}
+    "D:\\Учёба\\Знакомство с языками\\05.07 Семинар С++\\practic\\task0\\task0.csproj": {}
   },
   "projects": {
-    "d:\\Учёба\\Знакомство с языками\\05.07 Семинар С++\\practic\\task0\\task0.csproj": {
+    "D:\\Учёба\\Знакомство с языками\\05.07 Семинар С++\\practic\\task0\\task0.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Учёба\\Знакомство с языками\\05.07 Семинар С++\\practic\\task0\\task0.csproj",
+        "projectUniqueName": "D:\\Учёба\\Знакомство с языками\\05.07 Семинар С++\\practic\\task0\\task0.csproj",
         "projectName": "task0",
-        "projectPath": "d:\\Учёба\\Знакомство с языками\\05.07 Семинар С++\\practic\\task0\\task0.csproj",
+        "projectPath": "D:\\Учёба\\Знакомство с языками\\05.07 Семинар С++\\practic\\task0\\task0.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "d:\\Учёба\\Знакомство с языками\\05.07 Семинар С++\\practic\\task0\\obj\\",
+        "outputPath": "D:\\Учёба\\Знакомство с языками\\05.07 Семинар С++\\practic\\task0\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
